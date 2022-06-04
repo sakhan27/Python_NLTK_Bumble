@@ -1,0 +1,2 @@
+The app keeps bugging, likes show up as a notification then not in the app. 
+ Whack

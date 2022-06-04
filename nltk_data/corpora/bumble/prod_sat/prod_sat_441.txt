@@ -1,0 +1,1 @@
+This app will send you a false match or state that you have one waiting in a way to force you to purchase a subscription to view it.

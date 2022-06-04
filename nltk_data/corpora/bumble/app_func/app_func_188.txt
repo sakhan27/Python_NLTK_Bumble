@@ -1,0 +1,3 @@
+More often than not, I do not get notifications for new messages 
+ and/matches even though my push notifications are turned on. The app also 
+ loses connectivity a lot and crashes.

@@ -1,0 +1,2 @@
+no network connection while I'm on Wi-Fi? I don't see why it keeps saying 
+ no network connection everytime I open this app.

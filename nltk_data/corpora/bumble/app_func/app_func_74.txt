@@ -1,0 +1,1 @@
+cannot do back tracks or reverse a left swipe anymore after the recent update

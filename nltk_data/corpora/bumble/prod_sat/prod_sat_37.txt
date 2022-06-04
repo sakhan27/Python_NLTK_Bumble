@@ -1,0 +1,1 @@
+Even after having an internet connection the app keeps saying the its offline and does not load

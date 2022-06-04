@@ -1,0 +1,1 @@
+Don't give notifications 95% of the time if someone messages you. Used to work but not on the S8 edge.

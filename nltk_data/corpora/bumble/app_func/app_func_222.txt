@@ -1,0 +1,1 @@
+On the new Google Pixel 4 with the latest release of Android 11, if you plug/unplug the charging cable it'll abruptly end the call.

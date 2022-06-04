@@ -1,0 +1,1 @@
+App doesn't open. It immediately quits. Ive troubleshooted the issue and it hasnt worked.

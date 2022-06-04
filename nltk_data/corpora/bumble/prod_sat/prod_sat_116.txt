@@ -1,0 +1,1 @@
+When i try to sign in with Facebook, it tells me that the email is incorrect. And when i try to log in with my number, it says my number is invalid or to "check my number".

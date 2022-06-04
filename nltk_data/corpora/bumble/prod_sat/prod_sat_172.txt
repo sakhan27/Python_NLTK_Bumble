@@ -1,0 +1,1 @@
+Basic features work fine but it constantly bounces from saying you're online to offline when you're very much offline. A new issue in the last week is audios and photos sit 'sending' for hours and never go anywhere. Contacting Bumble results in a stock response that does not acknowledge nor address the issue.
